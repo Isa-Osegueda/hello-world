@@ -1,0 +1,100 @@
+Scheduled start;End;Duration (minutes);Spaces count;Type;Title;Price;Payment status;Holder first name;Holder last name;Holder organization;Holder contact number;Holder email;Created;Notes;Gateway charge reference;Spaces
+2016-03-08 18:00;2016-03-08 21:00;180;1;Internal;Startup Grind - Sourav Sharma;0,00;N/A;;;Impactico;;;2016-02-03 10:55;;;500 Norte: 2do piso 8 personas
+2016-03-03 13:00;2016-03-03 15:00;120;1;Internal;Reunión Mesa Innovación Social;0,00;N/A;;;Impactico;;;2016-03-02 12:14;"Encargada: Ana Ruth Villareal
+Sin costo";;500 Norte: 2do piso 8 personas
+2016-03-23 11:00;2016-03-23 13:00;120;1;External;"Estela Aragón ";0,00;N/A;;;Impactico;;;2016-03-22 09:53;;;500 Norte: 2do piso 8 personas
+2016-04-13 17:00;2016-04-13 21:00;240;1;Internal;NuMundo;0,00;N/A;;;Impactico;;;2016-03-28 16:44;;;La Rotonda: 1er piso 40 pers.
+2016-04-12 16:00;2016-04-12 19:00;180;1;Internal;Junta Directiva Impactico;0,00;N/A;;;Impactico;;;2016-04-08 09:13;;;500 Norte: 2do piso 8 personas
+2016-04-24 14:00;2016-04-24 17:30;210;1;External;Uso de espacio PUNTO Y APARTE;0,00;N/A;;;Impactico;;;2016-04-18 19:06;;;La Rotonda: 1er piso 40 pers.
+2016-04-25 19:00;2016-04-25 21:30;150;1;External;Uso de espacio Punto y Aparte;0,00;N/A;;;Impactico;;;2016-04-18 19:08;;;La Rotonda: 1er piso 40 pers.
+2016-04-26 12:30;2016-04-26 13:30;60;1;External;Isidoro;0,00;N/A;;;Impactico;;;2016-04-25 11:58;;;500 Norte: 2do piso 8 personas
+2016-03-02 14:00;2016-03-02 15:00;60;1;External;Llamada Manatí;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-02 12:59;;;50 Este: 1er piso, 4personas
+2016-03-03 10:30;2016-03-03 11:00;30;1;External;llamada manati;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-03 10:27;;;500 Norte: 2do piso 8 personas
+2016-03-03 11:30;2016-03-03 12:00;30;1;External;Alberto;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-03 11:09;;;500 Norte: 2do piso 8 personas
+2016-03-04 11:00;2016-03-04 12:00;60;1;External;Llamada Manatí;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-04 10:47;;;50 Este: 1er piso, 4personas
+2016-03-10 10:30;2016-03-10 11:00;30;1;External;Llamada Manatí;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-10 10:13;;;50 Este: 1er piso, 4personas
+2016-03-10 11:30;2016-03-10 12:00;30;1;External;Llamada Manatí;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-10 11:18;;;50 Este: 1er piso, 4personas
+2016-03-11 11:00;2016-03-11 12:00;60;1;External;Llamada de INCAE;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-11 10:02;;;50 Este: 1er piso, 4personas
+2016-03-11 13:30;2016-03-11 14:30;60;1;External;Alberto;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-11 13:27;;;50 Este: 1er piso, 4personas
+2016-03-14 11:00;2016-03-14 12:00;60;1;External;Llamada Manatí;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-14 10:45;;;50 Este: 1er piso, 4personas
+2016-03-15 09:00;2016-03-15 10:00;60;1;External;Llamada Manatí;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-15 08:01;;;500 Norte: 2do piso 8 personas
+2016-03-16 11:00;2016-03-16 12:00;60;1;External;Reunión Manatí;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-16 10:25;;;500 Norte: 2do piso 8 personas
+2016-03-16 10:30;2016-03-16 11:00;30;1;External;Reunión Manatí;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-16 10:26;;;50 Este: 1er piso, 4personas
+2016-03-30 15:00;2016-03-30 15:30;30;1;External;Alberto;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-30 14:49;;;50 Este: 1er piso, 4personas
+2016-03-31 14:00;2016-03-31 14:30;30;1;External;Alberto;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-31 13:35;;;50 Este: 1er piso, 4personas
+2016-03-31 14:00;2016-03-31 14:30;30;1;External;Alberto;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-31 13:36;;;500 Norte: 2do piso 8 personas
+2016-03-31 15:30;2016-03-31 17:30;120;1;External;Reunión Manatí;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-03-31 13:38;;;500 Norte: 2do piso 8 personas
+2016-04-19 10:00;2016-04-19 12:00;120;1;External;Manatí;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-04-19 08:37;;;50 Este: 1er piso, 4personas
+2016-04-19 13:00;2016-04-19 15:00;120;1;External;Manatí;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-04-19 12:39;;;50 Este: 1er piso, 4personas
+2016-04-25 10:00;2016-04-25 11:00;60;1;External;Reunión Manatí;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-04-25 09:56;;;500 Norte: 2do piso 8 personas
+2016-04-26 13:30;2016-04-26 14:00;30;1;External;manati;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-04-26 13:09;;;500 Norte: 2do piso 8 personas
+2016-04-27 11:00;2016-04-27 12:00;60;1;External;;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-04-27 10:41;;;50 Este: 1er piso, 4personas
+2016-04-27 13:30;2016-04-27 14:30;60;1;External;;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-04-27 13:29;;;50 Este: 1er piso, 4personas
+2016-04-28 09:00;2016-04-28 11:00;120;1;External;;0,00;N/A;Alberto;Rojas;Manatí;Ph. 2234 6622;beto@estudiomanati.com;2016-04-28 07:55;;;500 Norte: 2do piso 8 personas
+2016-03-01 18:00;2016-03-01 21:00;180;1;External;Comunidad NEST;0,00;N/A;Monica;Hidalgo Reynolds;Impactico;;monica@impactico.org;2016-01-19 12:43;;;La Rotonda: 1er piso 40 pers.
+2016-03-02 18:00;2016-03-02 21:00;180;1;External;Comunidad NEST;0,00;N/A;Monica;Hidalgo Reynolds;Impactico;;monica@impactico.org;2016-01-19 12:45;;;La Rotonda: 1er piso 40 pers.
+2016-03-03 18:00;2016-03-03 21:00;180;1;External;" Comunidad NEST";0,00;N/A;Monica;Hidalgo Reynolds;Impactico;;monica@impactico.org;2016-01-19 12:47;;;La Rotonda: 1er piso 40 pers.
+2016-03-30 16:00;2016-03-30 18:00;120;1;External;Emprendimiento.cr;0,00;N/A;Monica;Hidalgo Reynolds;Impactico;;monica@impactico.org;2016-03-28 13:26;;;500 Norte: 2do piso 8 personas
+2016-03-15 10:00;2016-03-15 11:00;60;1;External;;0,00;N/A;Marta;Perez de Madrid;Impactico;;marta@impactico.org;2016-03-15 09:27;;;50 Este: 1er piso, 4personas
+2016-03-02 15:00;2016-03-02 16:00;60;1;External;Reunión con Oliver;0,00;N/A;José René;Gutiérrez;Manatí;Ph. 8389 5037;jose@estudiomanati.com;2016-03-02 14:57;;;500 Norte: 2do piso 8 personas
+2016-03-16 15:00;2016-03-16 18:00;180;1;External;José René;0,00;N/A;José René;Gutiérrez;Manatí;Ph. 8389 5037;jose@estudiomanati.com;2016-03-16 10:37;;;500 Norte: 2do piso 8 personas
+2016-03-21 15:30;2016-03-21 16:30;60;1;External;Reunión con CINDE;0,00;N/A;José René;Gutiérrez;Manatí;Ph. 8389 5037;jose@estudiomanati.com;2016-03-21 09:57;;;500 Norte: 2do piso 8 personas
+2016-03-21 14:00;2016-03-21 15:30;90;1;External;José René;0,00;N/A;José René;Gutiérrez;Manatí;Ph. 8389 5037;jose@estudiomanati.com;2016-03-21 13:38;;;500 Norte: 2do piso 8 personas
+2016-03-29 15:00;2016-03-29 17:30;150;1;External;Manatí;0,00;N/A;José René;Gutiérrez;Manatí;Ph. 8389 5037;jose@estudiomanati.com;2016-03-29 14:28;;;500 Norte: 2do piso 8 personas
+2016-04-01 10:00;2016-04-01 12:00;120;1;External;;0,00;N/A;José René;Gutiérrez;Manatí;Ph. 8389 5037;jose@estudiomanati.com;2016-04-01 09:30;;;500 Norte: 2do piso 8 personas
+2016-04-01 14:00;2016-04-01 16:30;150;1;External;;0,00;N/A;José René;Gutiérrez;Manatí;Ph. 8389 5037;jose@estudiomanati.com;2016-04-01 13:32;;;500 Norte: 2do piso 8 personas
+2016-04-05 10:30;2016-04-05 12:30;120;1;External;;0,00;N/A;José René;Gutiérrez;Manatí;Ph. 8389 5037;jose@estudiomanati.com;2016-04-05 10:23;;;500 Norte: 2do piso 8 personas
+2016-04-06 10:00;2016-04-06 12:00;120;1;External;;0,00;N/A;José René;Gutiérrez;Manatí;Ph. 8389 5037;jose@estudiomanati.com;2016-04-06 09:21;;;500 Norte: 2do piso 8 personas
+2016-04-06 13:00;2016-04-06 16:00;180;1;External;;0,00;N/A;José René;Gutiérrez;Manatí;Ph. 8389 5037;jose@estudiomanati.com;2016-04-06 12:16;;;500 Norte: 2do piso 8 personas
+2016-04-19 15:30;2016-04-19 18:00;150;1;External;;0,00;N/A;José René;Gutiérrez;Manatí;Ph. 8389 5037;jose@estudiomanati.com;2016-04-19 14:51;;;500 Norte: 2do piso 8 personas
+2016-03-15 10:00;2016-03-15 12:00;120;1;External;Andrés;0,00;N/A;Andrés;Díaz;Manatí;Ph. 8841 7243;andres@estudiomanati.com;2016-03-14 11:28;Reunión Manatí.;;500 Norte: 2do piso 8 personas
+2016-04-28 14:00;2016-04-28 15:00;60;1;External;;0,00;N/A;Andrés;Díaz;Manatí;Ph. 8841 7243;andres@estudiomanati.com;2016-04-28 13:30;;;500 Norte: 2do piso 8 personas
+2016-03-17 08:00;2016-03-17 17:00;540;1;External;Reservado(Manatí);0,00;N/A;Cristina;Masis;Impactico;;cristina.masis.ramirez@gmail.com;2016-03-15 12:50;;;La Rotonda: 1er piso 40 pers.
+2016-03-18 08:00;2016-03-18 17:00;540;1;External;Reservado(Manatí);0,00;N/A;Cristina;Masis;Impactico;;cristina.masis.ramirez@gmail.com;2016-03-15 12:51;;;La Rotonda: 1er piso 40 pers.
+2016-03-22 10:00;2016-03-22 17:00;420;1;External;Reunión;0,00;N/A;Cristina;Masis;Impactico;;cristina.masis.ramirez@gmail.com;2016-03-21 13:38;;;500 Norte: 2do piso 8 personas
+2016-03-30 14:30;2016-03-30 15:30;60;1;External;Manatí;0,00;N/A;Cristina;Masis;Impactico;;cristina.masis.ramirez@gmail.com;2016-03-30 14:13;;;500 Norte: 2do piso 8 personas
+2016-04-01 10:00;2016-04-01 12:00;120;1;External;;0,00;N/A;Cristina;Masis;Impactico;;cristina.masis.ramirez@gmail.com;2016-04-01 08:55;;;50 Este: 1er piso, 4personas
+2016-04-18 18:00;2016-04-18 22:00;240;1;External;Taller Comunidad Nest;0,00;N/A;Cristina;Masis;Impactico;;cristina.masis.ramirez@gmail.com;2016-04-02 23:15;;;La Rotonda: 1er piso 40 pers.
+2016-04-19 18:00;2016-04-19 22:00;240;1;External;Taller Comunidad Nest;0,00;N/A;Cristina;Masis;Impactico;;cristina.masis.ramirez@gmail.com;2016-04-02 23:16;;;La Rotonda: 1er piso 40 pers.
+2016-04-21 18:00;2016-04-21 22:00;240;1;External;Taller Comunidad Nest;0,00;N/A;Cristina;Masis;Impactico;;cristina.masis.ramirez@gmail.com;2016-04-02 23:17;;;La Rotonda: 1er piso 40 pers.
+2016-04-15 09:00;2016-04-15 11:00;120;1;External;;0,00;N/A;Cristina;Masis;Impactico;;cristina.masis.ramirez@gmail.com;2016-04-15 08:27;;;500 Norte: 2do piso 8 personas
+2016-04-27 11:00;2016-04-27 12:00;60;1;External;Reunión Árboles Mágicos;0,00;N/A;Cristina;Masis;Impactico;;cristina.masis.ramirez@gmail.com;2016-04-25 12:20;;;500 Norte: 2do piso 8 personas
+2016-03-01 17:00;2016-03-01 20:30;210;1;External;"Película ";0,00;N/A;"Allan ";Esquivel;Manatí;Ph. 8911 8589;allan@estudiomanati.com;2016-03-01 14:34;;;500 Norte: 2do piso 8 personas
+2016-03-15 11:00;2016-03-15 14:30;210;1;External;reunión Hivos- Manati;0,00;N/A;"Allan ";Esquivel;Manatí;Ph. 8911 8589;allan@estudiomanati.com;2016-03-14 19:17;;;50 Este: 1er piso, 4personas
+2016-03-16 13:30;2016-03-16 15:00;90;1;External;Kevin - Manatí;0,00;N/A;Kevin;Porras;Manatí;Ph. 8548 9236;kevin@estudiomanati.com;2016-03-16 12:34;;;50 Este: 1er piso, 4personas
+2016-04-06 12:00;2016-04-06 14:30;150;1;External;Kevin - Manatí;0,00;N/A;Kevin;Porras;Manatí;Ph. 8548 9236;kevin@estudiomanati.com;2016-04-06 11:56;;;50 Este: 1er piso, 4personas
+2016-04-20 14:00;2016-04-20 16:00;120;1;External;Sprint Demo Kevin;0,00;N/A;Kevin;Porras;Manatí;Ph. 8548 9236;kevin@estudiomanati.com;2016-04-20 10:13;;;50 Este: 1er piso, 4personas
+2016-04-13 15:00;2016-04-13 16:00;60;1;External;;0,00;N/A;Sara;Ramírez;Árboles Mágicos;Ph. 8706 5871;proyectos@arbolesmagicos.org;2016-04-13 09:45;;;50 Este: 1er piso, 4personas
+2016-03-04 12:00;2016-03-04 14:00;120;1;External;;0,00;N/A;"Tamara ";Styne;Buscojobs;Ph. 8879 6064;tamara.styne@buscojobs.cr;2016-03-07 08:41;;;50 Este: 1er piso, 4personas
+2016-03-07 10:30;2016-03-07 15:00;270;1;External;;0,00;N/A;"Tamara ";Styne;Buscojobs;Ph. 8879 6064;tamara.styne@buscojobs.cr;2016-03-07 10:06;;;50 Este: 1er piso, 4personas
+2016-03-08 09:30;2016-03-08 12:00;150;1;External;Entrevistas;0,00;N/A;"Tamara ";Styne;Buscojobs;Ph. 8879 6064;tamara.styne@buscojobs.cr;2016-03-08 09:16;;;50 Este: 1er piso, 4personas
+2016-03-17 10:00;2016-03-17 11:30;90;1;External;;0,00;N/A;"Tamara ";Styne;Buscojobs;Ph. 8879 6064;tamara.styne@buscojobs.cr;2016-03-17 09:23;;;500 Norte: 2do piso 8 personas
+2016-03-18 10:30;2016-03-18 13:00;150;1;External;;0,00;N/A;"Tamara ";Styne;Buscojobs;Ph. 8879 6064;tamara.styne@buscojobs.cr;2016-03-18 10:27;;;50 Este: 1er piso, 4personas
+2016-03-21 09:00;2016-03-21 14:00;300;1;External;;0,00;N/A;"Tamara ";Styne;Buscojobs;Ph. 8879 6064;tamara.styne@buscojobs.cr;2016-03-21 09:10;;;50 Este: 1er piso, 4personas
+2016-03-28 09:00;2016-03-28 10:30;90;1;External;;0,00;N/A;"Tamara ";Styne;Buscojobs;Ph. 8879 6064;tamara.styne@buscojobs.cr;2016-03-23 10:42;;;500 Norte: 2do piso 8 personas
+2016-03-28 09:00;2016-03-28 15:00;360;1;External;;0,00;N/A;"Tamara ";Styne;Buscojobs;Ph. 8879 6064;tamara.styne@buscojobs.cr;2016-03-28 09:06;;;50 Este: 1er piso, 4personas
+2016-04-19 09:30;2016-04-19 12:00;150;1;External;;0,00;N/A;Julian;Trussart;Buscojobs;Ph. 8821 5410;julian.trussart@buscojobs.cr;2016-04-19 09:18;;;500 Norte: 2do piso 8 personas
+2016-03-03 15:00;2016-03-03 16:00;60;1;External;Maritza Bustamante;0,00;N/A;Pas;Osegueda;Impactico;Ph. 6213 4851;pasosegueda@gmail.com;2016-03-03 12:20;;;50 Este: 1er piso, 4personas
+2016-03-21 09:00;2016-03-21 10:00;60;1;External;;0,00;N/A;Pas;Osegueda;Impactico;Ph. 6213 4851;pasosegueda@gmail.com;2016-03-21 08:55;;;500 Norte: 2do piso 8 personas
+2016-04-05 15:00;2016-04-05 16:00;60;1;External;Maritza Bustamante;0,00;N/A;Pas;Osegueda;Impactico;Ph. 6213 4851;pasosegueda@gmail.com;2016-03-31 09:17;;;500 Norte: 2do piso 8 personas
+2016-04-12 09:00;2016-04-12 12:00;180;1;External;Edgar (manatí);0,00;N/A;Pas;Osegueda;Impactico;Ph. 6213 4851;pasosegueda@gmail.com;2016-04-12 08:55;;;500 Norte: 2do piso 8 personas
+2016-04-22 11:00;2016-04-22 12:00;60;1;External;"César Loáiciga ";0,00;N/A;Pas;Osegueda;Impactico;Ph. 6213 4851;pasosegueda@gmail.com;2016-04-22 09:12;;;500 Norte: 2do piso 8 personas
+2016-03-02 10:30;2016-03-02 11:30;60;1;External;"Team meeting ";0,00;N/A;Felipe;(SUMAK TRAVEL);Sumak;Ph. 8469 0726;info@sumak-travel.org;2016-03-02 10:09;;;500 Norte: 2do piso 8 personas
+2016-03-04 10:30;2016-03-04 12:00;90;1;External;"Team meeting ";0,00;N/A;Felipe;(SUMAK TRAVEL);Sumak;Ph. 8469 0726;info@sumak-travel.org;2016-03-03 14:25;;;500 Norte: 2do piso 8 personas
+2016-03-04 12:00;2016-03-04 12:30;30;1;External;"team meeting ";0,00;N/A;Felipe;(SUMAK TRAVEL);Sumak;Ph. 8469 0726;info@sumak-travel.org;2016-03-04 10:21;;;500 Norte: 2do piso 8 personas
+2016-03-11 14:30;2016-03-11 15:30;60;1;External;"Team meeting ";0,00;N/A;Felipe;(SUMAK TRAVEL);Sumak;Ph. 8469 0726;info@sumak-travel.org;2016-03-11 11:28;;;500 Norte: 2do piso 8 personas
+2016-03-17 14:00;2016-03-17 15:30;90;1;External;"Meetings ";0,00;N/A;Felipe;(SUMAK TRAVEL);Sumak;Ph. 8469 0726;info@sumak-travel.org;2016-03-17 12:03;;;500 Norte: 2do piso 8 personas
+2016-03-18 14:30;2016-03-18 15:30;60;1;External;"Team meeeeting ";0,00;N/A;Felipe;(SUMAK TRAVEL);Sumak;Ph. 8469 0726;info@sumak-travel.org;2016-03-18 08:05;;;500 Norte: 2do piso 8 personas
+2016-04-19 13:30;2016-04-19 14:30;60;1;External;"Meeting with Rainforest Alliance ";0,00;N/A;Felipe;(SUMAK TRAVEL);Sumak;Ph. 8469 0726;info@sumak-travel.org;2016-04-06 16:23;;;500 Norte: 2do piso 8 personas
+2016-04-13 15:00;2016-04-13 16:30;90;1;External;"Localista Meeting ";0,00;N/A;Felipe;(SUMAK TRAVEL);Sumak;Ph. 8469 0726;info@sumak-travel.org;2016-04-11 15:46;;;500 Norte: 2do piso 8 personas
+2016-04-15 14:30;2016-04-15 15:30;60;1;External;"Team meeting ";0,00;N/A;Felipe;(SUMAK TRAVEL);Sumak;Ph. 8469 0726;info@sumak-travel.org;2016-04-14 13:58;;;500 Norte: 2do piso 8 personas
+2016-03-16 10:00;2016-03-16 11:00;60;1;External;Reunion Yeril;0,00;N/A;Rodrigo;Romero;;Ph. 8881 5241;rromero@mibimcr.com;2016-03-16 08:46;;;500 Norte: 2do piso 8 personas
+2016-03-31 10:30;2016-03-31 12:00;90;1;External;Reunión;0,00;N/A;Tamara;Styne;Buscojobs;Ph. 8879 6064;tamara@recluta.org;2016-03-30 14:55;;;500 Norte: 2do piso 8 personas
+2016-03-31 14:30;2016-03-31 19:00;270;1;External;Reunión Recluta;0,00;N/A;Tamara;Styne;Buscojobs;Ph. 8879 6064;tamara@recluta.org;2016-03-31 14:25;;;50 Este: 1er piso, 4personas
+2016-04-04 09:30;2016-04-04 12:00;150;1;External;Entrevistas Recluta;0,00;N/A;Tamara;Styne;Buscojobs;Ph. 8879 6064;tamara@recluta.org;2016-04-04 09:14;;;50 Este: 1er piso, 4personas
+2016-04-05 09:30;2016-04-05 13:00;210;1;External;Entrevistas Recluta;0,00;N/A;Tamara;Styne;Buscojobs;Ph. 8879 6064;tamara@recluta.org;2016-04-05 09:07;;;50 Este: 1er piso, 4personas
+2016-04-08 08:00;2016-04-08 13:00;300;1;External;Capacitación Recluta;0,00;N/A;Tamara;Styne;Buscojobs;Ph. 8879 6064;tamara@recluta.org;2016-04-07 15:49;;;500 Norte: 2do piso 8 personas
+2016-04-08 13:00;2016-04-08 15:00;120;1;External;Capacitación Recluta;0,00;N/A;Tamara;Styne;Buscojobs;Ph. 8879 6064;tamara@recluta.org;2016-04-08 12:36;;;500 Norte: 2do piso 8 personas
+2016-04-20 13:00;2016-04-20 18:00;300;1;External;Entrevistas Recluta;0,00;N/A;Tamara;Styne;Buscojobs;Ph. 8879 6064;tamara@recluta.org;2016-04-20 12:14;;;500 Norte: 2do piso 8 personas
+2016-04-25 14:00;2016-04-25 15:30;90;1;External;Entrevistas Recluta;0,00;N/A;Tamara;Styne;Buscojobs;Ph. 8879 6064;tamara@recluta.org;2016-04-25 12:32;;;50 Este: 1er piso, 4personas
+2016-04-26 10:00;2016-04-26 18:00;480;1;External;Entrevista Recluta;0,00;N/A;Tamara;Styne;Buscojobs;Ph. 8879 6064;tamara@recluta.org;2016-04-26 09:44;;;50 Este: 1er piso, 4personas
